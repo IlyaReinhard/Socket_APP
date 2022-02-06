@@ -1,0 +1,7 @@
+				structure of project:
+				
+				1. socket - is's base class for server and client
+				
+				2. server - socket server for chat
+				
+				3. client - socket cleint for chat ( we can have any count of 						clients)
