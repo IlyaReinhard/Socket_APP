@@ -1,0 +1,2 @@
+This is simple socket chat on python using threading.
+
